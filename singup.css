@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0 ;
+
+}
+#fb{
+    width: 130px;
+    height: 130px;
+    position: relative;
+    padding-left: 70%;
+    padding-top: -50px;
+}
+.blue{
+    height: 120px;
+    border: 1px solid black;
+    color: blue;
+    width: 100%;
+    background-color: blue;
+}
